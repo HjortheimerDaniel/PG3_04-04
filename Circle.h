@@ -12,7 +12,7 @@ public:
 
 private:
 
-	int width = 5;
-	int height = 7;
+	float radius = 5.0f;
+	float pi = 3.14f;
 };
 

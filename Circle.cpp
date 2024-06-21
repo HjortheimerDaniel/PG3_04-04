@@ -2,12 +2,12 @@
 
 void Circle::Size()
 {
-	printf("The circles size is %d * %d\n", height, width);
+	printf("The circles size is radius * pi * pi \n");
 
 }
 
 void Circle::Draw()
 {
-	printf("The circle is drawn, its size it %d\n", height * width);
+	printf("The circle is drawn, its size is %.01f\n", radius * pi * pi);
 
 }
