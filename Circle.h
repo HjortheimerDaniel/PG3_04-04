@@ -14,5 +14,6 @@ private:
 
 	float radius = 5.0f;
 	float pi = 3.14f;
+	float size;
 };
 

@@ -13,5 +13,6 @@ private:
 
 	int width = 3;
 	int height = 5;
+	int size;
 
 };
